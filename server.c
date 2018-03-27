@@ -1,8 +1,6 @@
 /*************************************
- * COMP30023 - Computer Systems
- * -----------Project 2------------
- * By: HangChen Xiong (hangchenx)
- * Student ID: 753057
+ * -----Computer Systems Project-----
+ * By: HangChen Xiong 
  *************************************/
 
 #include <stdio.h>

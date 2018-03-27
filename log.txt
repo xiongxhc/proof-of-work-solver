@@ -1,0 +1,67 @@
+[Time:25/05/2017 21:41:55] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+[Time:25/05/2017 21:41:56] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:42:34] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] PING
+
+[Time:25/05/2017 21:42:34] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] PONG
+
+[Time:25/05/2017 21:42:35] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] PING
+
+[Time:25/05/2017 21:42:35] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] PONG
+
+[Time:25/05/2017 21:42:36] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] PING
+
+[Time:25/05/2017 21:42:36] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] PONG
+
+[Time:25/05/2017 21:42:39] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] PING
+
+[Time:25/05/2017 21:42:39] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] PONG
+
+[Time:25/05/2017 21:42:39] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] OKAY
+
+[Time:25/05/2017 21:42:39] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] ERRO unknown command or invalid params
+
+[Time:25/05/2017 21:42:41] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] OKAY
+
+[Time:25/05/2017 21:42:41] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] ERRO unknown command or invalid params
+
+[Time:25/05/2017 21:42:44] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] ERROR
+
+[Time:25/05/2017 21:42:44] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] ERRO unknown command or invalid params
+
+[Time:25/05/2017 21:42:45] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] HAHAAHAHA
+
+[Time:25/05/2017 21:42:45] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] ERRO unknown command or invalid params
+
+[Time:25/05/2017 21:42:53] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:42:53] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:42:55] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:42:55] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:42:56] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:42:57] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:42:57] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:42:57] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:42:58] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:42:59] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:42:59] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:43:00] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:44:23] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:44:23] [server:0.0.0.0] [client:127.0.0.1] [socketID:6] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:25/05/2017 21:44:28] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:25/05/2017 21:44:28] [server:0.0.0.0] [client:127.0.0.1] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+

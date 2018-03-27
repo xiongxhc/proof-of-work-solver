@@ -1,0 +1,60 @@
+[Time:26/05/2017 16:50:46] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] WORK 1d29ffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:26/05/2017 16:50:51] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] ABRT
+
+[Time:26/05/2017 16:50:51] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [server=>client] OKAY
+
+[Time:26/05/2017 16:50:55] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] PING
+
+[Time:26/05/2017 16:50:55] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [server=>client] PONG
+
+[Time:26/05/2017 16:50:58] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] PONG
+
+[Time:26/05/2017 16:50:58] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [server=>client] ERRO unknown command or invalid params
+
+[Time:26/05/2017 16:51:04] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] OKAY
+
+[Time:26/05/2017 16:51:04] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [server=>client] ERRO unknown command or invalid params
+
+[Time:26/05/2017 16:53:13] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:26/05/2017 16:53:13] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:26/05/2017 16:53:15] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:26/05/2017 16:53:15] [server:0.0.0.0] [client:128.250.0.198] [socketID:5] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:26/05/2017 16:53:50] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] PING
+
+[Time:26/05/2017 16:53:50] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] PONG
+
+[Time:26/05/2017 16:53:52] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] PING
+
+[Time:26/05/2017 16:53:52] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] PONG
+
+[Time:26/05/2017 16:53:55] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] WORK 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 04
+
+[Time:26/05/2017 16:53:55] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] SOLN 1effffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 100000002321ed8f
+
+[Time:26/05/2017 16:54:07] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] WORK 1dffffff 0000000019d6689c085ae165831e934ff763ae46a218a6c172b3f1b60a8ce26f 1000000023212399 01
+
+[Time:26/05/2017 16:54:11] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] ABRT
+
+[Time:26/05/2017 16:54:11] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] OKAY
+
+[Time:26/05/2017 16:54:16] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] OKAY
+
+[Time:26/05/2017 16:54:16] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] ERRO unknown command or invalid params
+
+[Time:26/05/2017 16:54:19] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] OKAY
+
+[Time:26/05/2017 16:54:19] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] ERRO unknown command or invalid params
+
+[Time:26/05/2017 16:54:23] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] ping
+
+[Time:26/05/2017 16:54:23] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] ERRO unknown command or invalid params
+
+[Time:26/05/2017 16:54:25] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [client=>server] PING
+
+[Time:26/05/2017 16:54:25] [server:0.0.0.0] [client:128.250.0.198] [socketID:6] [server=>client] PONG
+
